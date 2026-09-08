@@ -264,7 +264,7 @@ Bug reports and feature requests are read and acted on: [open an issue](https://
 
 ```powershell
 # Prerequisites: JDK 17+, Android SDK 37
-cd C:\Users\--\repos\HostShield
+cd C:\repos\HostShield
 
 # Full flavor: GitHub/F-Droid release (root features, QUERY_ALL_PACKAGES)
 .\app\gradlew.bat -p app :app:assembleFullRelease    # Signed release
