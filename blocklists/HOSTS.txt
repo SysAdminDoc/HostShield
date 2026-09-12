@@ -1710,3 +1710,16 @@
 0.0.0.0 zzhc.vnet.cn
 0.0.0.0 zzz.onion.pet
 0.0.0.0 zzz-wildcard-probe-4471.adobe.io
+0.0.0.0 fern.xboxservices.com
+0.0.0.0 myradar-readonly.acmeaom.com
+0.0.0.0 cdn.darkreader.app
+0.0.0.0 log-dr16-normal-useast5.tiktokv.us
+0.0.0.0 log-dr16-normal-useast8.tiktokv.us
+0.0.0.0 www.qbittorrent.org
+0.0.0.0 www.fosshub.com
+0.0.0.0 qbittorrent.github.io
+0.0.0.0 fern.xboxservices.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 androidpay-users-pa.googleapis.com
+0.0.0.0 proxy.telemetry.us-ashburn-1.oci.oraclecloud
+
