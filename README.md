@@ -7,6 +7,16 @@
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-success)
 
+<p align="center">
+  <a href="https://ko-fi.com/X8K126YVER">
+    <img height="42" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy me a coffee on Ko-fi" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><em>If HostShield makes browsing quieter and safer, a coffee helps me keep its filters and app current.</em></sub>
+</p>
+
 > System-wide DNS-based ad/tracker/malware blocker for Android with per-app firewall, CNAME cloaking detection, serve-stale DNS caching, fail-closed DoH certificate pinning, rate-limited GeoIP enrichment, and a professional AMOLED dark UI with an optional high-contrast AMOLED mode.
 
 ---
