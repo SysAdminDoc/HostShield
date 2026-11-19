@@ -3,6 +3,10 @@
 All notable changes to HostShield are documented in this canonical changelog.
 The `app/CHANGELOG.md` path is a compatibility pointer for older links.
 
+## Unreleased
+
+- Two niche entries came off the bundled allowlist. They were never general-purpose sites.
+
 ## [v6.9.69]: 2026-08-29
 
 - New app icon: adaptive, themed (monochrome) and legacy variants regenerated from the 2026-08 icon set.

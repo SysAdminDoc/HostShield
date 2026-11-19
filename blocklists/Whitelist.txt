@@ -1075,8 +1075,6 @@ sdmntprwestus.oaiusercontent.com # OpenAI User Content: West US.
 # AI SERVICES - OTHER
 # --------------------------------------------
 grok.com # xAI Grok: AI chatbot.
-vpax.ai # VPax AI: Medical imaging cloud PACS with AI.
-patientimage.ai # Patient Image AI: Chiropractic AI tools for imaging.
 
 # --------------------------------------------
 # VPN / PRIVACY - PIA
